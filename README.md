@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cyberbiso
 - 👀 I’m interested in phython, web development, machine learning and AI
 - 🌱 I’m currently learning Python, JAVA and Javascript 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python and Java projects 
 - 📫 How to reach me email:mrthabiso.seleke@gmail.com
 
 <!---
